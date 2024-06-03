@@ -1,0 +1,21 @@
+{
+	"hello": "hello world.",
+	"paramsError": "params error.",
+	"authFailed": "authentication failed.",
+	"notFound": "not found.",
+	"forbidden": "access forbidden.",
+	"exist": "already exist.",
+	"serverError": "server error.",
+	"unknowError": "unknow error.",
+	"userOrEmailExist": "username or email exists.",
+	"emptyAccount": "username or email address does not exist.",
+	"checkFail": "username or password is incorrect.",
+	"invalidToken": "token is invalid.",
+	"cannotEmptyToken": "parameter does not carry valid Token.",
+	"tokenExpired": "the token has expired.",
+	"authDenied": "permission denied.",
+	"registerFailed": "register failed.",
+	"userDetailFailed": "the account does not exist or has been disabled. Contact the administrator.",
+	"NotFoundUser": "no user found.",
+	"stateException": "user status exception."
+}

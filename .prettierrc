@@ -1,0 +1,19 @@
+{
+  "printWidth": 80,
+  "semi": true,
+  "vueIndentScriptAndStyle": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "proseWrap": "preserve",
+  "htmlWhitespaceSensitivity": "ignore",
+  "endOfLine": "auto",
+  "overrides": [
+    {
+      "files": ".*rc",
+      "options": {
+        "parser": "json"
+      }
+    }
+  ]
+}
